@@ -1,0 +1,3 @@
+C:/Users/stasi/OneDrive - Politechnika Wroclawska/CLionProjects/SD1/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/stasi/OneDrive - Politechnika Wroclawska/CLionProjects/SD1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stasi/OneDrive - Politechnika Wroclawska/CLionProjects/SD1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

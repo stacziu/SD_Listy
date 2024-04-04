@@ -1,0 +1,9 @@
+# ninja log v5
+10	870	7337591856433085	CMakeFiles/untitled.dir/dynamic_array.cpp.obj	2f4a80975a28bf9c
+5	1095	7337655539284223	CMakeFiles/untitled.dir/main.cpp.obj	376761c8a32612c3
+1096	1209	7337655540374971	untitled.exe	5c7e1a9b571881bd
+18	796	7336958460271472	CMakeFiles/untitled.dir/linked_list.cpp.obj	675641540d37ecb
+16	2514	7338454599880406	CMakeFiles/untitled.dir/linked_list.cpp.obj	f481b8e632a6dc9f
+12	2518	7338454599890501	CMakeFiles/untitled.dir/dynamic_array.cpp.obj	70ec7700cd15fc54
+5	3350	7338454608223722	CMakeFiles/untitled.dir/main.cpp.obj	46aa82c280171c57
+3352	4082	7338454615338564	untitled.exe	5c7e1a9b571881bd
