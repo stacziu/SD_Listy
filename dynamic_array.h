@@ -15,6 +15,7 @@ class dynamic_array {
     dynamic_array();
     ~dynamic_array();
     bool isEmpty() const;
+    int getSize();
     void show();
     void addElement(int element, int index);
     void increaseCap();
@@ -25,6 +26,8 @@ class dynamic_array {
     void removeElement(int index);
     void removeFront();
     void removeBack();
+
+    int getSize() const;
 };
 
 

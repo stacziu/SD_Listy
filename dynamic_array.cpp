@@ -75,8 +75,8 @@ void dynamic_array::addElement(int element, int index) {
 }
 
 void dynamic_array::addBack(int element) {
-    size++;
     increaseCap();
+    size++;
     arr[size - 1] = element;
 }
 
@@ -118,3 +118,8 @@ int dynamic_array::findElement(int element) {
         }
     }
 }
+
+int dynamic_array::getSize() {
+    return size;
+}
+
