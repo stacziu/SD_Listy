@@ -1,3 +1,0 @@
-do zrobienia:
-- pomierzyc tablice dynamiczne 
-- dla szukania zapelnic tablice np. zapelnic 1  i wylosowac miejsce dla 2 i jej poszukac. Powtorzyc dla roznych miejsc.
